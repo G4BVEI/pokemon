@@ -14,6 +14,7 @@ App de Pokédex em Flutter que consome a [PokéAPI v2](https://pokeapi.co/docs/v
 ## 1. Como rodar
 
 ```bash
+flutter install .
 flutter pub get
 flutter run
 ```
